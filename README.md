@@ -3,7 +3,7 @@ Kolossus, a unisplit angled Katana layout with a 25mm trackball and a Panasonic 
 
 # Description
 "clops is a qazlike unibody split sub40s keyboard. The KLE and firmware is by ha ha ha which itself is inspired by a KLE from Noelle. PCB is designed by Calvin0563." Copied from Calvin's GitHub linked above. 
-Kolossus is a heavy remix of clops by adding a full case to the PCB that was made from scratch using EasyEDA by extracting vital files from the Calvin0563's clops PCB files.
+Kolossus is a heavy remix of clops by adding a full case to the PCB that was made from scratch using EasyEDA by extracting vital files from the Calvin0563's clops PCB files. Initially the name was Colossus but changed to Kolossus via HA HA HA's suggestion to give it a more stylist name.
 Here are the list of modifications:
 
 -Center encoder is now a 25mm trackball powered by PMW3360 sensor.
