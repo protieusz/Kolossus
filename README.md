@@ -16,7 +16,7 @@ Here are the list of modifications:
 
 -PCB is powered by [RP2040 Zero Super Mini](https://www.aliexpress.com/item/1005007292787135.html?spm=a2g0o.order_list.order_list_main.11.46301802CibF9u) where the bottom of the mcu is flush and can sit on top of the Excelsior PCB with no issues.
 
--For diodes, I decided to try out the BAV70 so that I solder less diodes since this pcb is not sponsored. I would only need to solder on 17 diodes instead of 34
+-For diodes, I decided to try out the BAV70 so that I solder less diodes. I would only need to solder on 17 diodes instead of 34
 
 -QMK code is borrowed from aki27 bally and modified the matrix to fit my Excelsior. No suppport will be given since I just copy and paste.
 
