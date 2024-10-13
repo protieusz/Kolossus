@@ -22,7 +22,7 @@ Here are the list of modifications:
 
 -Below the trackball is the optional Panasonic EVQ roller encoder or a MX switch. Case cut out was done to acoomodate the Panasonic encoder.
 
--Stabilizers cutout was made but was not sure about the dimensions since I have never used stabs before so a STEP case file will be included so you can cut the stab cut out further if needed. I am playing to build mine without any stabs. As always print at your own risk. No support will be given.
+-Stabilizers cutout was made but was not sure about the dimensions since I have never used stabs before so a STEP case file will be included so you can cut the stab cut out further if needed. I am planning to build mine without any stabs. As always print at your own risk. No support will be given.
 
 # Disclaimer (Also copied from Calvin0563's GitHub page)
 
