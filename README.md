@@ -18,7 +18,7 @@ Here are the list of modifications:
 
 -For diodes, I decided to try out the BAV70 so that I solder less diodes. I would only need to solder on 17 diodes instead of 34
 
--QMK code is borrowed from aki27 bally and modified the matrix to fit my Excelsior. No suppport will be given since I just copy and paste.
+-QMK code is borrowed from aki27 bally and modified the matrix to fit my Kolossus. No suppport will be given since I just copy and paste.
 
 -Below the trackball is the optional Panasonic EVQ roller encoder or a MX switch. Case cut out was done to acoomodate the Panasonic encoder.
 
