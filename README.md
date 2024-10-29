@@ -46,7 +46,7 @@ Zaku Case Oct 25, 2024
 ![IMG_3301](https://github.com/user-attachments/assets/6d5d1873-649e-4ed1-9888-ae11212a8626)
 ![IMG_3298](https://github.com/user-attachments/assets/eb3bdd59-c924-4e5b-bb42-9405790eefa4)
 
-[IMG_3283](https://github.com/user-attachments/assets/3be696b9-bb7d-40f8-96e7-5dc84e3f6a7e)
+![IMG_3283](https://github.com/user-attachments/assets/3be696b9-bb7d-40f8-96e7-5dc84e3f6a7e)
 ![IMG_3288](https://github.com/user-attachments/assets/78abf4ae-5e4e-4c46-be71-286528e8b317)
 ![IMG_3287](https://github.com/user-attachments/assets/6e5900a5-a889-4af5-9cb0-5b8d3b9116c3)
 ![IMG_3286](https://github.com/user-attachments/assets/104d5df0-f0b0-4753-805d-cb4869411ab2)
