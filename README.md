@@ -40,6 +40,16 @@ Here are the list of modifications:
 Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. However, feel free to edit, modify and otherwise utilise these files.
 
 # Full Production Build
+Zaku 2.0 case Oct 30, 2024
+![IMG_3353](https://github.com/user-attachments/assets/6025d42c-48b9-4c45-a1e8-0771c6bf5ab2)
+![IMG_3350](https://github.com/user-attachments/assets/95a7feee-5a7d-4721-91bd-fe91590eb7ff)
+![IMG_3351](https://github.com/user-attachments/assets/5c9756a2-a7ea-4abf-ace9-801ce1942669)
+![IMG_3334](https://github.com/user-attachments/assets/5e0c56ae-7406-4a98-82ae-b2884de1078b)
+![IMG_3335](https://github.com/user-attachments/assets/fcba877d-2d5a-4d5d-a905-e6dacbdc87a0)
+![IMG_3336](https://github.com/user-attachments/assets/3b233eef-9bb5-4381-94b4-190eb4bc78cf)
+![IMG_3333](https://github.com/user-attachments/assets/a3b19d73-9f04-4bf6-9a6a-ce731e6fe9fb)
+![IMG_3328](https://github.com/user-attachments/assets/7a4d0480-dbb2-4a16-b6e9-dc0acb9a4e0d)
+![IMG_3329](https://github.com/user-attachments/assets/32f761a5-bbea-4f23-9513-a32e868f22bc)
 
 Zaku Case Oct 25, 2024
 ![IMG_3302](https://github.com/user-attachments/assets/0c1c5401-5f9c-49b8-9815-b108e9138a87)
