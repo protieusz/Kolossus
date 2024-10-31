@@ -27,7 +27,7 @@ Here are the list of modifications:
 
 -Stabilizers cutout was made but was not sure about the dimensions since I have never used stabs before so a STEP case file will be included so you can cut the stab cut out further if needed. I am planning to build mine without any stabs. As always print at your own risk. No support will be given.
 
--Case usb c opening will be adjusted in the future to accommodate the wider USB C magnetic port.
+-Case usb c opening ~~will be~~ adjusted ~~in the future~~ to accommodate the wider USB C magnetic port. Updated bottom case on October 31, 2024.
 
 -New full case variant designs will be printed soon. Stay tuned.
 
