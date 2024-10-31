@@ -44,6 +44,7 @@ Zaku 2.0 case Oct 30, 2024
 ![IMG_3353](https://github.com/user-attachments/assets/6025d42c-48b9-4c45-a1e8-0771c6bf5ab2)
 ![IMG_3350](https://github.com/user-attachments/assets/95a7feee-5a7d-4721-91bd-fe91590eb7ff)
 ![IMG_3351](https://github.com/user-attachments/assets/5c9756a2-a7ea-4abf-ace9-801ce1942669)
+![IMG_3369](https://github.com/user-attachments/assets/5847465d-6136-4953-b2e2-22dffaa6c6a5)
 ![IMG_3334](https://github.com/user-attachments/assets/5e0c56ae-7406-4a98-82ae-b2884de1078b)
 ![IMG_3335](https://github.com/user-attachments/assets/fcba877d-2d5a-4d5d-a905-e6dacbdc87a0)
 ![IMG_3336](https://github.com/user-attachments/assets/3b233eef-9bb5-4381-94b4-190eb4bc78cf)
